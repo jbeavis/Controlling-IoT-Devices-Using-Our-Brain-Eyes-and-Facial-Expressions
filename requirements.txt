@@ -1,0 +1,11 @@
+imbalanced_learn==0.13.0
+imblearn==0.0
+keyboard==0.13.5
+matplotlib==3.10.1
+numpy==1.24.3
+pandas==2.2.3
+pygame==2.6.1
+pylsl==1.17.6
+scikit_learn==1.6.1
+scipy==1.15.2
+seaborn==0.13.2
